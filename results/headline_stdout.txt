@@ -1,0 +1,57 @@
+{
+  "b1_benign_episode_verified_share": 1.0,
+  "b1_benign_todo_verified_share": 1.0,
+  "b1_episode_ci95": [
+    1.0,
+    1.0
+  ],
+  "b1_todo_ci95": [
+    1.0,
+    1.0
+  ],
+  "baseline_flagged_unverified_episodes": 0,
+  "bootstrap_resamples": 2000,
+  "d1_ci95": [
+    0.4138253968253968,
+    0.48378571428571426
+  ],
+  "d1_unverified_episode_share": 0.44966666666666666,
+  "d2_ci95": [
+    0.5185555555555555,
+    0.5986666666666667
+  ],
+  "d2_proofless_todo_share": 0.5593333333333333,
+  "m1_ci95": [
+    1.0,
+    1.0
+  ],
+  "m1_tamper_detection_rate": 1.0,
+  "m2_ci95": [
+    1.0,
+    1.0
+  ],
+  "m2_replay_detection_rate": 1.0,
+  "m3_ci95": [
+    0.0,
+    0.0
+  ],
+  "m3_proofless_marked_verified_share": 0.0,
+  "m4_ci95": [
+    1.0,
+    1.0
+  ],
+  "m4_unverified_episode_flag_rate": 1.0,
+  "m_truncation_ci95": [
+    1.0,
+    1.0
+  ],
+  "m_truncation_detection_rate": 1.0,
+  "n_benign_sessions": 100,
+  "n_clean_chains_verified": 300,
+  "n_episodes": 1490,
+  "n_main_sessions": 300,
+  "n_proofless_todos": 592,
+  "n_todos": 1053,
+  "n_unverified_episodes": 665,
+  "seed": 109002
+}
